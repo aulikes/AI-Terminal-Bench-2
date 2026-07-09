@@ -8,4 +8,4 @@ The report must be a JSON object with exactly these keys:
 Success criteria:
 1. /app/report.json exists and contains a valid JSON object.
 2. The JSON object contains exactly these keys: total_requests, unique_ips, and top_path.
-3. The JSON object contains the correct values computed from /app/access.log: total_requests = 6, unique_ips = 3, and top_path = "/index.html".
+3. The JSON object contains the correct values computed from /app/access.log.
