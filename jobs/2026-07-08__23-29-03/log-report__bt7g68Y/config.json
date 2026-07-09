@@ -1,0 +1,15 @@
+{
+    "task": {
+        "path": "."
+    },
+    "trial_name": "log-report__bt7g68Y",
+    "trials_dir": "jobs/2026-07-08__23-29-03",
+    "agent": {
+        "name": "nop"
+    },
+    "environment": {
+        "type": "docker",
+        "force_build": true
+    },
+    "job_id": "144b576d-8ad7-43ca-a6c9-f97e70b3e1f3"
+}
